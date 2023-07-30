@@ -1,4 +1,4 @@
-Explicar e algunas ideas utilizadas para hacer el programa pedido. (test)
+Explicar e algunas ideas utilizadas para hacer el programa pedido.
 El n umero m aximo de clientes que se pueden conectar son 6 clientes, puesto que se admiten m aximo 10 sockets,
 de los cuales, los primero cuatro ya son utilizados (el socket del servidor es el 3). Cada cliente est a representado
 por un  le descriptor, y toda la informaci on acerca del estado de este  le descriptor se encuentra condensado en 3
