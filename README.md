@@ -1,5 +1,6 @@
 # TCP-chat-server
 This is a program that emulates a chat server using TCP protocol.
+
 Ejecución del programa:
 
 En los 3 casos la compilación y ejecución se hace como sigue:
